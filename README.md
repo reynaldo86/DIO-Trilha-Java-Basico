@@ -1,2 +1,2 @@
 # DIO-Trilha-Java-Basico
-exercicios java basico
+## Repositório reservado aos estudos do bootcamp DIO. Banco PAN Java Developer.
