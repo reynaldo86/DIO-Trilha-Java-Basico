@@ -1,4 +1,4 @@
-package exercicios;
+package exercicioWhile;
 
 import java.util.Scanner;
 
@@ -13,9 +13,9 @@ public class ExercicioWhileNota {
 
         while(true) {
             System.out.println("Digite uma valor entre 0 e 10: ");
-            int numero = input.nextInt();
+            int nota = input.nextInt();
 
-            if(numero >= 0 && numero <= 10) {
+            if(nota >= 0 && nota <= 10) {
                 break;
 
             }else {

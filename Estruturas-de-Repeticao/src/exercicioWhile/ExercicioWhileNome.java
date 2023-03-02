@@ -1,8 +1,8 @@
-package exercicios;
+package exercicioWhile;
 
 import java.util.Scanner;
 
-public class ExercicioWhile {
+public class ExercicioWhileNome {
     /*
     🔸Nome e Idade: Faça um programa que leia conjuntos de dois valores,
     o primeiro representando o nome do aluno e o segundo representando a sua idade.
