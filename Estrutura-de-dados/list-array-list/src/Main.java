@@ -15,7 +15,7 @@ public class Main {
 
         listCarros.forEach(System.out::println);
 
-        //.indexOf retornaem qual posição o item se encontra na pilha.
+        //.indexOf retorna em qual posição o item se encontra na lista.
         System.out.println(listCarros.indexOf(new Carro("Fiat")));
 
         //.remove() remove um item de um determinada posição.
