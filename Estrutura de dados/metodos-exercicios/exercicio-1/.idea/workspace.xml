@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f25b9c5-a0df-4867-aa74-06016522879e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/equalshashcode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/out/production/equalshashcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/out/production/equalshashcode/dio/digitalinovation/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Equals-Hashcode/equalshashcode/src/dio/digitalinovation/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/src/main/java/one/digitalinovation/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/src/main/java/one/digitalinovation/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/src/main/java/one/digitalinovation/Pilha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/target/classes/one/digitalinovation/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/target/classes/one/digitalinovation/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Estrutura-de-dados-pilha/target/classes/one/digitalinovation/Pilha.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/map.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/out/production/map/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Map/map/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/out/production/equalshashcode/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/out/production/equalshashcode/dio/digitalinovation/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/out/production/stack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/out/production/stack/dio/digitalinovation/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/src/dio/digitalinovation/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Stack/stack.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../assets/to-readme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/estrutura-de-dados-fila.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/out/production/estrutura-de-dados-fila/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/out/production/estrutura-de-dados-fila/one/digitalinovation/Fila.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/out/production/estrutura-de-dados-fila/one/digitalinovation/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/src/one/digitalinovation/Fila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-fila/src/one/digitalinovation/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/src/main/java/com/projetono/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/src/main/java/com/projetono/No.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/target/classes/com/projetono/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../estrutura-de-dados-no/target/classes/com/projetono/No.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/list-array-list.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/out/production/list-array-list/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/out/production/list-array-list/dio/digitalinovation/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../list-array-list/src/dio/digitalinovation/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listas-encadeadas/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listas-encadeadas/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listas-encadeadas/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listas-encadeadas/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listas-encadeadas/listas-encadeadas.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../listas-encadeadas/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios-metodos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-metodos/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-metodos/exercicios/Calculadora.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-metodos/exercicios/Emprestimo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-metodos/exercicios/EmprestimoOld.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exercicios-metodos/exercicios/Mensagem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/Calculadora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/Emprestimo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/EmprestimoOld.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/Mensagem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercicios/Sobrecarga.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/out/production/queue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/out/production/queue/dio/digitalinovation/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/queue.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../queue/src/dio/digitalinovation/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/out/production/set/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/out/production/set/digitalinovation/Carro.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/set.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../set/src/digitalinovation/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/OperadoresLogicosRelacionais.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/out/production/OperadoresLogicosRelacionais/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/out/production/OperadoresLogicosRelacionais/OperadoresLogicos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../OperadoresLogicosRelacionais/src/OperadoresLogicos.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Mc2TyGooqe9TeyoCaqNjadQXkI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Estudos DIO&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.Calculadora" />
+      <module name="exercicios-metodos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmprestimoOld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.EmprestimoOld" />
+      <module name="exercicios-metodos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="exercicios-metodos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mensagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.Mensagem" />
+      <module name="exercicios-metodos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.EmprestimoOld" />
+        <item itemvalue="Application.Mensagem" />
+        <item itemvalue="Application.Calculadora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f25b9c5-a0df-4867-aa74-06016522879e" name="Changes" comment="" />
+      <created>1678052563245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678052563245</updated>
+    </task>
+    <task id="LOCAL-00001" summary="exercicios metodos">
+      <created>1678142516259</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678142516259</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exercicios metodos sobrecarga">
+      <created>1678147807513</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678147807513</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exercicios metodos sobrecarga com return.">
+      <created>1678209725901</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678209725901</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exercicios metodos" />
+    <MESSAGE value="exercicios metodos sobrecarga" />
+    <MESSAGE value="exercicios metodos sobrecarga com return." />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios metodos sobrecarga com return." />
+  </component>
+</project>
